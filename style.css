@@ -119,7 +119,7 @@ footer{
     font-family: 'Red Hat Display', sans-serif;
     margin: 10px auto;
 }
-@media (min-width: 375px) and (max-width: 768px) {
+@media (min-width: 0px) and (max-width: 3000px) {
     body{
         background-image: url(./images/pattern-background-mobile.svg), linear-gradient( rgb(214, 225, 255), rgb(214, 225, 255));
         background-position: top, bottom;
